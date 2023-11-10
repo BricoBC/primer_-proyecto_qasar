@@ -6,11 +6,15 @@ Dejo a continuación la página oficial [Node](https://nodejs.org/en)
 ```js
 npm i -g @quasar/cli
 ```
+```js
+npm init quasar
+```
+
 3. Instalar yarn
 ```js
 npm install --global yarn
 ```
 3. Se crea un proyecto
 ```js
-quasar create <folder_name>
+quasar create <folder_name> --branch next
 ```
