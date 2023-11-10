@@ -14,7 +14,24 @@ npm init quasar
 ```js
 npm install --global yarn
 ```
-3. Se crea un proyecto
+3. Se inicia un proyecto
 ```js
-quasar create <folder_name> --branch next
+npm init quasar
 ```
+
+Después de ejecutar el comando te va a pedir los siguientes datos:
+
+| Pregunta | Respuesta     |
+| :-------- | :------- | 
+| `√ Project folder:` | `quasar-project ` | 
+| `√ Pick Quasar version:` | `Quasar v2 (Vue 3 - latest and greatest):` | 
+| `√ Pick script type:` | `Javascript` | 
+| `√ Pick Quasar App CLI variant:` | ` Quasar App CLI with Vite` | 
+| `√ Package name:` | ` quasar-project` | 
+| `√ Project product name:` | `Quasar App` | 
+| `√ Project description:` | `A Quasar Project` | 
+| `√ Author:` | `BricoBC <barajas.c.bruno.n@gmail.com>` | 
+| `√ Pick your CSS preprocessor:` | `Sass with SCSS syntax` | 
+| `√ Check the features needed for your project:` | `ESLint, Axios` | 
+| `√ Pick an ESLint preset:` | `Prettier` | 
+| `√ Install project dependencies?` | `Yes, use npm` | 
