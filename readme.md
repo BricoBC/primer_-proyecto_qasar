@@ -35,3 +35,8 @@ Después de ejecutar el comando te va a pedir los siguientes datos:
 | `√ Check the features needed for your project:` | `ESLint, Axios` | 
 | `√ Pick an ESLint preset:` | `Prettier` | 
 | `√ Install project dependencies?` | `Yes, use npm` | 
+
+Ya lo único que queda es acceder a la carpeta que se crea y ejecutar el servidor de Quasar:
+```js
+quasar dev
+```
